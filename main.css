@@ -1,0 +1,40 @@
+header {
+    position: relative;
+    text-align: center;
+    /*background-color: darkslategray;*/
+}
+body{
+    background-color: #000;
+}
+h1{
+        font: none;
+        color: gold;
+}
+h1 {
+    text-decoration: underline;
+    text-decoration-color: dimgray;
+}
+aside{
+    color:aqua
+}
+h2{
+    color:gold;
+}
+    h2 {
+    text-decoration: underline;
+    text-decoration-color: dimgray;
+}
+h3{
+    text-decoration: underline;
+    color:aqua;
+    text-decoration-color:grey;
+}
+ul{
+    color:aqua;
+}
+p{
+    color:dimgray;
+}
+blockquote{
+    color:aqua
+}
